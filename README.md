@@ -1,2 +1,2 @@
-#   visualization the  sorting-of-array-by-using-python-firstproject
-just trying and learning
+Visualization  Of Sorting ALgorithm 
+Technology :- python 
